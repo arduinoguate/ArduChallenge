@@ -15,7 +15,7 @@
    width="713.91998"
    height="264"
    viewBox="0 0 713.91998 264"
-   sodipodi:docname="BannerFacebook1.svg"
+   sodipodi:docname="PortadaEventoFacebook_.svg"
    inkscape:version="0.92.2 (unknown)"
    inkscape:export-filename="/home/keik/Escritorio/BannerFacebook_RL.png"
    inkscape:export-xdpi="300"
@@ -60,7 +60,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <image
        style="display:inline"
        y="-144.38586"
@@ -75,7 +76,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#191a1c;fill-opacity:1;stroke-width:0.83310026"
        id="rect40"

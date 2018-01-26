@@ -26,6 +26,11 @@ Asi que bienvenid@s tod@s.
 - Luis Olivet
 - [Karla L Hdz](https://github.com/karlalhdz)
 
+### #Campeones de la competencia
+1° LUGAR: Flash
+2° LUGAR: MBL
+3° LUGAR: Robohitech
+
 ### #NuncaDejenDeCrear
 
 ## Contacto
