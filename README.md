@@ -1,5 +1,5 @@
 # Arduchallenge 
-![PortadaEventoPrincipal_Facebook](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/PortadaEventoPrincipal_Facebook.png)
+![PortadaEventoPrincipal_Facebook](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Portada%20Arduchallenge18.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
