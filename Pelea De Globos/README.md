@@ -11,8 +11,9 @@ Ch'a'oj ri kuxpun es un concurso en el cual los participantes con sus respectivo
 con la finalidad de reventar, pinchar o eliminar la mayor cantidad de globos del equipo contrario. 
 El equipo ganador será el que reviente, explote o pinche mas globos al finalizar el tiempo establecido. 
 
-- --  --  ---   - -!![Diseño Carro](Multimedia/Carro1.jpg)
-- --  --  ---   - -!![Diseño Carro](Multimedia/Carro2.jpg)
+https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Dimensiones1.png
+
+https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Dimensiones2.png
 
 -------------
 ## Reglamento
@@ -31,7 +32,7 @@ El equipo ganador será el que reviente, explote o pinche mas globos al finaliza
 - Si un participante empuja a un contrincante hacia una estructura y este pierde un globo se le suma un punto al contrincante. 
 
  
- ![](Carro1.jpg)
+https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Dimensiones3.png
 
 
 ## Materiales
