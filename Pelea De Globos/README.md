@@ -29,7 +29,7 @@ El equipo ganador será el que reviente, explote o pinche mas globos al finaliza
 - Si dos globos se revientan al mismo tiempo de cualquier participante se detendra el reloj, los carritos se detienen se saca al carrito de la pista, se le incluye un globo nuevo y los jueces determinan la reanudacion del mismo. 
 - Si un participante revienta un globo de un compañero, no se detiene el concurso y se queda con los globos que tienen, tampoco se le resta puntos. 
 - Si un participante pierde un globo chocando con alguna estructura de la pista sin que nadie lo haya tocado, continua con los globos que le quedan y no se le restan puntos.
-- Si un participante empuja a un contrincante hacia una estructura y este pierde un globo se le suma un punto al contrincante. 
+- Si un participante(el atacante) empuja a otro participante( el atacado) hacia una estructura y el atacado pierde un globo se le suma un punto al atacante. 
 
  
 ![Reglas para Carrito2](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Dimensiones3.png)
