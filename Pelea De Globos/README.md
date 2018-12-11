@@ -54,6 +54,7 @@ Metodos de ataque prohibidos
 Esta prohibido todo aquel metodo de ataque que pueda ser perjudicial para los espectadores.
 No esta permitido metodos o dispositivos que expulsen liquidos para inhabilitar el movimiento del contrincante, 
 que destruyan el suelo de la competicion o meotodos que utilicen cualquier tipo de proyectil como arma.
+** por favor tener mucho cuidado con cuchillas y cualquier metodo de ataque punzoCortante, La comunidad no se hace responsable de daños a competidores o asistentes, tendremos bomberos cerca**
 
 - --  --  ---   - -![](Pistas1.jpg)
 
