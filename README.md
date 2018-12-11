@@ -24,7 +24,9 @@ Asi que bienvenid@s tod@s.
 - [Samuel Palma](https://github.com/spalmadroid)
 - [Josue Orozco](https://github.com/JosueGZ)
 - Alberto Villanueva
+- Luis Olivet 
 - [Karla L Hdz](https://github.com/karlalhdz)
+
 
 ### #Campeones de la competencia 2017 Seguidores de lineas
 1° LUGAR: Flash Quetzaltenango, Guatemala.
